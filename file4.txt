@@ -1,1 +1,4 @@
-Hello every body
+#! /bin/bash
+echo"Welcome to jenkins ......"
+echo "New line"
+
